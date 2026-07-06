@@ -1,0 +1,15 @@
+
+Edit only the hair. Add a subtle, natural wind effect so the hair flows softly and realistically, with gentle movement, a few loose strands, and natural volume as if a light breeze is blowing. The movement should be physically believable and preserve the original hairstyle, length, bangs, color, texture, lighting, and shading.
+Hair Length: #Độ dài tóc
+Long (extend to thigh length while preserving the original hairstyle and bangs).
+Wind Direction: #(Gió)
+Wind blowing from left to right.
+Moderate wind
+STRICT INSTRUCTIONS (MUST FOLLOW):
+DO NOT modify the character's face, eyes, expression, makeup, skin, body, pose, hands, clothing, accessories, fox ears, weapon, or any other part of the character.
+DO NOT change the composition, camera angle, perspective, framing, crop, lighting, exposure, contrast, white balance, color grading, saturation, sharpness, or image quality.
+DO NOT alter the background, floor reflections, environment, props, or any object in the scene.
+DO NOT regenerate or redesign the character in any way.
+ONLY edit the hair to create a soft, elegant, wind-blown effect.
+Preserve every other pixel exactly as in the original image. If any change other than the hair is required, do not make it.
+Hair-only edit. Pixel-lock everything except the hair. Zero changes to the character, face, colors, background, props, clothing, composition, or lighting.
